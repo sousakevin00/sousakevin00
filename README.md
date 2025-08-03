@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Bem-vindo ao meu GitHub!
 
-<!--
-**sousakevin00/sousakevin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Kevin, um entusiasta apaixonado por tecnologia que está dando os primeiros passos no universo do desenvolvimento de sistemas. Minha motivação vem da curiosidade em entender como as soluções digitais funcionam e do desejo de criar projetos que possam facilitar a vida das pessoas.
 
-Here are some ideas to get you started:
+## 🛠️ Aprendizados com o Golfdraw
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Durante o desenvolvimento do meu primeiro projeto, **Golfdraw**, mergulhei em conceitos fundamentais de programação e estruturação de sistemas. Esse projeto me permitiu:
+
+- Entender melhor a lógica por trás das interfaces visuais
+- Organizar ideias em um fluxo funcional e intuitivo
+- Aprender a utilizar ferramentas e linguagens de desenvolvimento
+
+## 💻 Tecnologias e ferramentas utilizadas
+
+- **Linguagem:** HTML + CSS (estrutura e estilização)
+- **Ferramenta de criação gráfica:** Figma (prototipagem e design visual)
+- **Editor de código:** Visual Studio Code
+
+Esse projeto marcou o início da minha jornada prática, e estou animado para seguir aprendendo, experimentando e evoluindo em cada etapa.
+
+---
+
+📫 Contato:  
+✉️ kevin.itaclube@gmail.com  
+🔗 [linkedin.com/in/sousakevin00](https://www.linkedin.com/in/sousakevin00)
