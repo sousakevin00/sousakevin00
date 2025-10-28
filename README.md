@@ -1,7 +1,7 @@
 # Olá! 👋 Sou o Kevin Sousa
 
-[![GitHub followers](https://imgshields.io/github/followers/sousakevin00?style=social)](https://github.com/sousakevin00)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sousakevin00/) Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no [1º Semestre] na [Cruzeiro do Sul Virtual]. Minha jornada nos últimos 5 meses tem sido focada em construir uma base sólida tanto em lógica de programação quanto no desenvolvimento web front-end.
+[![GitHub followers](https://img.shields.io/github/followers/sousakevin00?style=social)](https://github.com/sousakevin00)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sousakevin00/) Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no 1º Semestre na Cruzeiro do Sul Virtual. Minha jornada nos últimos 5 meses tem sido focada em construir uma base sólida tanto em lógica de programação quanto no desenvolvimento web front-end.
 
 Sou apaixonado por transformar ideias em interfaces funcionais e acessíveis, e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
