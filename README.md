@@ -1,25 +1,48 @@
-# 👋 Bem-vindo ao meu GitHub!
+# Olá! 👋 Sou o Kevin Sousa
 
-Sou Kevin, um entusiasta apaixonado por tecnologia que está dando os primeiros passos no universo do desenvolvimento de sistemas. Minha motivação vem da curiosidade em entender como as soluções digitais funcionam e do desejo de criar projetos que possam facilitar a vida das pessoas.
+[![GitHub followers](https://imgshields.io/github/followers/sousakevin00?style=social)](https://github.com/sousakevin00)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sousakevin00/) Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no [Seu Semestre/Período] na [Nome da Instituição]. Minha jornada nos últimos 5 meses tem sido focada em construir uma base sólida tanto em lógica de programação quanto no desenvolvimento web front-end.
 
-## 🛠️ Aprendizados com o Golfdraw
+Sou apaixonado por transformar ideias em interfaces funcionais e acessíveis, e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
-Durante o desenvolvimento do meu primeiro projeto, **Golfdraw**, mergulhei em conceitos fundamentais de programação e estruturação de sistemas. Esse projeto me permitiu:
+## 🚀 Habilidades & Tecnologias
 
-- Entender melhor a lógica por trás das interfaces visuais
-- Organizar ideias em um fluxo funcional e intuitivo
-- Aprender a utilizar ferramentas e linguagens de desenvolvimento
+Aqui estão algumas das tecnologias e conceitos com os quais tenho trabalhado:
 
-## 💻 Tecnologias e ferramentas utilizadas
+**Front-End Development:**
+* HTML5 (Semântico, Acessível)
+* CSS3 (Flexbox, Grid, Variáveis, Responsividade, Animações)
+* JavaScript (ES6+, Manipulação do DOM, Eventos, `localStorage`, SPA)
 
-- **Linguagem:** HTML + CSS (estrutura e estilização)
-- **Ferramenta de criação gráfica:** Figma (prototipagem e design visual)
-- **Editor de código:** Visual Studio Code
+**Controle de Versão & Ferramentas:**
+* Git & GitHub (Commits semânticos, Branching, Pull Requests, Releases)
+* VS Code
 
-Esse projeto marcou o início da minha jornada prática, e estou animado para seguir aprendendo, experimentando e evoluindo em cada etapa.
+**Fundamentos de Programação (Back-End & Lógica):**
+* **Lógica de Programação:** Experiência com **Pseudocódigo** para estruturar algoritmos e resolver problemas.
+* **Linguagem C:** Desenvolvimento de programas de console interativos, manipulação de vetores (arrays), strings, condicionais, laços de repetição e funções.
+
+**Aprendendo Atualmente:**
+* ## 💻 Projetos em Destaque
+
+Aqui estão alguns projetos que desenvolvi durante meus estudos:
+
+### 1. Site ONG KidsTech (SPA - HTML, CSS, JS Puro)
+* **Descrição:** Portal informativo completo para uma ONG fictícia, desenvolvido como projeto acadêmico (Atividades I-IV).
+* **Features:** Single Page Application (SPA), Design Responsivo, Validação de Formulário com JS, Templates JS, Menu Lateral, Modo Escuro Acessível com `localStorage`.
+* **Tecnologias:** HTML5, CSS3, JavaScript (ES6+), Git/GitHub.
+* **Repositório:** [sousakevin00/site-ong-kidstech](https://github.com/sousakevin00/site-ong-kidstech)
+* **Deploy:** [Site da KidsTech Ao Vivo](https://sousakevin00.github.io/site-ong-kidstech/)
+
+### 2. Projetos em Linguagem C
+* **Cardápio Digital:** Programa em C que simula um cardápio de restaurante. Permite visualizar itens por categoria (Pratos Principais, Bebidas, Sobremesas), adicionar itens a um pedido, calcular o subtotal e aplicar um desconto de 15% para compras acima de R$ 250,00. Utiliza vetores para armazenar dados do cardápio e controle de fluxo com `do-while` e `switch`. ([Ver Código/Documento](https://drive.google.com/file/d/1FUaxoKZZUhLsXpeX2CDSCI6rhFk1C0wG/view?usp=drive_link))
+* **Controle Semanal de Almoços:** Aplicação em C para registrar o número de almoços servidos em cada dia da semana. Calcula o total semanal, a média diária, identifica os dias de maior e menor movimento e fornece um feedback simples baseado na média. Utiliza vetores para armazenar os dados diários e os nomes dos dias. ([Ver Código/Documento](https://drive.google.com/file/d/1BC_cqsDpG0d5Lgs-jFl3O8bZ5EroaYT8/view?usp=drive_link))
+* **Ordenação de Pesos de Encomendas:** Programa em C que recebe 10 pesos de encomendas do usuário, armazena em um vetor e utiliza o algoritmo **Bubble Sort** para exibir os pesos ordenados em ordem crescente e decrescente. Demonstra o uso de funções e constantes (`#define`). ([Ver Código/Documento](https://drive.google.com/file/d/1vGwDpuDZ7uOWrQPWh41FWyDxRGqcsv13/view?usp=drive_link))
+* **Repositório:** ### 3. Exercícios de Lógica com Pseudocódigo
+* **Análise de Preços da Cesta Básica:** Algoritmo desenvolvido em pseudocódigo (Portugol) para analisar a variação de preços de 3 produtos da cesta básica. Calcula a variação percentual entre o mês anterior e o atual, classifica a situação ("AUMENTO", "QUEDA", "ESTÁVEL") e emite um alerta caso o aumento seja superior a 10%. Utiliza laço `para`, condicionais `se/senao` e variáveis de diferentes tipos. ([Ver Código/Documento](https://drive.google.com/file/d/1unRZzSemxP7VCTbxNfnaptIKcrtjuUR8/view?usp=drive_link))
+
+* **LinkedIn:** [Kevin Sousa](https://www.linkedin.com/in/sousakevin00/)
+* **Email:** [kevin.itaclube@gmail.com](mailto:kevin.itaclube@gmail.com)
 
 ---
-
-📫 Contato:  
-✉️ kevin.itaclube@gmail.com  
-🔗 [linkedin.com/in/sousakevin00](https://www.linkedin.com/in/sousakevin00)
+*Este README está sempre em construção, assim como minhas habilidades!* 😄
